@@ -1,0 +1,22 @@
+Atölye fotoğrafları (her biri 1200×800, webp veya jpg):
+
+ingilizce.webp
+drama.webp
+jimnastik.webp
+muzik.webp
+dans.webp
+gorsel-sanatlar.webp
+kodlama.webp
+tasarim.webp
+deney.webp
+egitici-oyunlar.webp
+duyusal-oyunlar.webp
+cocuk-yogasi.webp
+minik-sefler.webp
+geleneksel-oyunlar.webp
+bilim-senlikleri.webp
+origami.webp
+mandala.webp
+akil-oyunlari.webp
+ritim.webp
+gunluk-yasam.webp

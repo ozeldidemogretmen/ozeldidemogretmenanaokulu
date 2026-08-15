@@ -1,0 +1,16 @@
+{
+  "name": "Özel Didem Öğretmen Anaokulu",
+  "short_name": "Didem Anaokulu",
+  "lang": "tr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d5e7ea",
+  "icons": [
+    {
+      "src": "../images/logo/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
